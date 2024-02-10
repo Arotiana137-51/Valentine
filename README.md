@@ -1,7 +1,7 @@
 # Valentine's Day Message App
 
 A simple React application to send heartfelt messages asking to be your valentine .
-
+This is a simple app that lets you create a romantic proposal for your partner on Valentine's Day. The app will be designed to be deployed on Facebook Instant Games, so you can easily share it with your partner and your friends.
 
 # Getting Started with Create React App
 
